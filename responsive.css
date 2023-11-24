@@ -1,0 +1,43 @@
+@media screen and (max-width: 420px) {
+  .about-section {
+    width: 90%;
+    margin-left: 20px;
+  }
+
+  .about-section h2 {
+    font-size: 40px;
+    margin-left: 5px;
+  }
+  .biography-section ul {
+    margin-right: 50px;
+  }
+
+  .biograp {
+    margin-left: 10px;
+  }
+
+  footer {
+    margin-right: 10px;
+  }
+
+  .image-container,
+  img {
+    width: 150%;
+  }
+
+  .desc {
+    width: auto;
+    text-align: end;
+    margin: 10px 10px;
+  }
+
+  .year {
+    margin-right: 10%;
+  }
+
+  .top-section h1 {
+    font-size: 50px;
+    margin-bottom: 20%;
+    margin-left: 5%;
+  }
+}
